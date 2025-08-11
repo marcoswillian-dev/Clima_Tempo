@@ -1,0 +1,422 @@
+cidade,temperatura,umidade,descricao,data_coleta
+Rio de Janeiro,19.37,71,Algumas Nuvens,2025-08-01 11:17:04
+Rio de Janeiro,20.15,64,Algumas Nuvens,2025-08-01 11:18:23
+São Paulo,18.03,64,Céu Limpo,2025-08-01 11:18:23
+Belo Horizonte,20.96,57,Algumas Nuvens,2025-08-01 11:18:23
+Brasília,22.54,57,Céu Limpo,2025-08-01 11:18:24
+Salvador,23.02,80,Nublado,2025-08-01 11:18:24
+Rio de Janeiro,20.15,64,Algumas Nuvens,2025-08-01 11:48:26
+São Paulo,15.24,65,Céu Limpo,2025-08-01 11:48:27
+Belo Horizonte,20.96,57,Algumas Nuvens,2025-08-01 11:48:27
+Brasília,22.55,57,Céu Limpo,2025-08-01 11:48:27
+Salvador,23.02,76,Nublado,2025-08-01 11:48:28
+Rio de Janeiro,21.81,59,Algumas Nuvens,2025-08-01 12:28:55
+São Paulo,17.24,59,Céu Limpo,2025-08-01 12:28:55
+Belo Horizonte,22.14,49,Céu Limpo,2025-08-01 12:28:56
+Brasília,24.53,51,Céu Limpo,2025-08-01 12:28:56
+Salvador,25.02,70,Nublado,2025-08-01 12:28:56
+Rio de Janeiro,21.81,59,Algumas Nuvens,2025-08-01 12:45:45
+São Paulo,17.24,59,Céu Limpo,2025-08-01 12:45:45
+Belo Horizonte,22.14,48,Céu Limpo,2025-08-01 12:45:45
+Brasília,24.53,51,Céu Limpo,2025-08-01 12:45:46
+Salvador,25.02,68,Nuvens Dispersas,2025-08-01 12:45:46
+Rio de Janeiro,22.25,60,Algumas Nuvens,2025-08-01 13:12:21
+São Paulo,20.2,49,Céu Limpo,2025-08-01 13:12:21
+Belo Horizonte,22.45,48,Céu Limpo,2025-08-01 13:12:22
+Brasília,25.53,48,Algumas Nuvens,2025-08-01 13:12:22
+Salvador,26.02,66,Nuvens Dispersas,2025-08-01 13:12:22
+Rio de Janeiro,22.72,57,Algumas Nuvens,2025-08-01 14:46:36
+São Paulo,21.16,47,Céu Limpo,2025-08-01 14:46:37
+Belo Horizonte,23.83,45,Céu Limpo,2025-08-01 14:46:37
+Brasília,26.53,44,Algumas Nuvens,2025-08-01 14:46:37
+Salvador,28.02,59,Nuvens Dispersas,2025-08-01 14:46:38
+Rio de Janeiro,22.72,57,Algumas Nuvens,2025-08-01 14:48:28
+São Paulo,21.16,47,Céu Limpo,2025-08-01 14:48:29
+Belo Horizonte,23.83,45,Céu Limpo,2025-08-01 14:48:29
+Brasília,26.53,44,Algumas Nuvens,2025-08-01 14:48:29
+Salvador,28.02,59,Nuvens Dispersas,2025-08-01 14:48:30
+Rio de Janeiro,22.72,57,Algumas Nuvens,2025-08-01 14:49:30
+São Paulo,21.16,47,Céu Limpo,2025-08-01 14:49:31
+Belo Horizonte,23.83,45,Céu Limpo,2025-08-01 14:49:31
+Brasília,26.53,44,Algumas Nuvens,2025-08-01 14:49:31
+Salvador,28.02,59,Nuvens Dispersas,2025-08-01 14:49:32
+Rio de Janeiro,22.72,57,Algumas Nuvens,2025-08-01 14:49:54
+São Paulo,21.16,47,Céu Limpo,2025-08-01 14:49:54
+Belo Horizonte,23.83,45,Céu Limpo,2025-08-01 14:49:54
+Brasília,26.53,44,Algumas Nuvens,2025-08-01 14:49:55
+Salvador,28.02,59,Nuvens Dispersas,2025-08-01 14:49:55
+Rio de Janeiro,22.72,57,Algumas Nuvens,2025-08-01 14:50:55
+São Paulo,21.16,47,Céu Limpo,2025-08-01 14:50:55
+Belo Horizonte,23.83,45,Céu Limpo,2025-08-01 14:50:56
+Brasília,26.53,44,Algumas Nuvens,2025-08-01 14:50:56
+Salvador,28.02,59,Nuvens Dispersas,2025-08-01 14:50:56
+Rio de Janeiro,22.72,57,Algumas Nuvens,2025-08-01 14:52:06
+São Paulo,21.44,47,Céu Limpo,2025-08-01 14:52:07
+Belo Horizonte,23.83,45,Céu Limpo,2025-08-01 14:52:07
+Brasília,26.53,44,Algumas Nuvens,2025-08-01 14:52:07
+Salvador,28.02,59,Nuvens Dispersas,2025-08-01 14:52:08
+Rio de Janeiro,22.72,57,Algumas Nuvens,2025-08-01 14:52:26
+São Paulo,21.44,47,Céu Limpo,2025-08-01 14:52:26
+Belo Horizonte,23.83,45,Céu Limpo,2025-08-01 14:52:26
+Brasília,26.53,44,Algumas Nuvens,2025-08-01 14:52:27
+Salvador,28.02,59,Nuvens Dispersas,2025-08-01 14:52:27
+Rio de Janeiro,22.94,56,Céu Limpo,2025-08-01 15:38:05
+São Paulo,22.75,47,Céu Limpo,2025-08-01 15:38:06
+Belo Horizonte,23.2,44,Céu Limpo,2025-08-01 15:38:06
+Brasília,26.53,40,Algumas Nuvens,2025-08-01 15:38:06
+Salvador,30.02,56,Céu Limpo,2025-08-01 15:38:06
+Rio de Janeiro,22.94,56,Céu Limpo,2025-08-01 15:39:07
+São Paulo,22.51,47,Céu Limpo,2025-08-01 15:39:07
+Belo Horizonte,23.2,44,Céu Limpo,2025-08-01 15:39:07
+Brasília,26.53,40,Algumas Nuvens,2025-08-01 15:39:08
+Salvador,30.02,56,Céu Limpo,2025-08-01 15:39:08
+Rio de Janeiro,22.94,56,Céu Limpo,2025-08-01 15:40:08
+São Paulo,22.51,47,Céu Limpo,2025-08-01 15:40:09
+Belo Horizonte,23.2,44,Céu Limpo,2025-08-01 15:40:09
+Brasília,26.53,40,Algumas Nuvens,2025-08-01 15:40:09
+Salvador,30.02,56,Céu Limpo,2025-08-01 15:40:10
+Rio de Janeiro,22.94,56,Céu Limpo,2025-08-01 15:41:10
+São Paulo,22.51,47,Céu Limpo,2025-08-01 15:41:10
+Belo Horizonte,23.2,44,Céu Limpo,2025-08-01 15:41:10
+Brasília,26.53,40,Algumas Nuvens,2025-08-01 15:41:11
+Salvador,30.02,56,Céu Limpo,2025-08-01 15:41:11
+Rio de Janeiro,22.94,56,Céu Limpo,2025-08-01 15:42:11
+São Paulo,22.51,47,Céu Limpo,2025-08-01 15:42:12
+Belo Horizonte,23.2,44,Céu Limpo,2025-08-01 15:42:12
+Brasília,26.53,40,Algumas Nuvens,2025-08-01 15:42:12
+Salvador,30.02,56,Céu Limpo,2025-08-01 15:42:13
+Rio de Janeiro,22.87,58,Céu Limpo,2025-08-01 15:43:13
+São Paulo,22.61,48,Céu Limpo,2025-08-01 15:43:13
+Belo Horizonte,23.2,45,Céu Limpo,2025-08-01 15:43:14
+Brasília,26.53,40,Algumas Nuvens,2025-08-01 15:43:14
+Salvador,30.02,56,Céu Limpo,2025-08-01 15:43:14
+Rio de Janeiro,22.87,58,Céu Limpo,2025-08-01 15:44:15
+São Paulo,22.61,48,Céu Limpo,2025-08-01 15:44:15
+Belo Horizonte,23.2,45,Céu Limpo,2025-08-01 15:44:15
+Brasília,26.53,40,Algumas Nuvens,2025-08-01 15:44:15
+Salvador,30.02,56,Céu Limpo,2025-08-01 15:44:16
+Rio de Janeiro,22.87,58,Céu Limpo,2025-08-01 15:45:16
+São Paulo,22.61,48,Céu Limpo,2025-08-01 15:45:16
+Belo Horizonte,23.2,45,Céu Limpo,2025-08-01 15:45:17
+Brasília,26.53,40,Algumas Nuvens,2025-08-01 15:45:17
+Salvador,30.02,56,Céu Limpo,2025-08-01 15:45:17
+Rio de Janeiro,22.87,58,Céu Limpo,2025-08-01 15:46:18
+São Paulo,22.61,48,Céu Limpo,2025-08-01 15:46:18
+Belo Horizonte,23.2,45,Céu Limpo,2025-08-01 15:46:18
+Brasília,26.53,40,Algumas Nuvens,2025-08-01 15:46:19
+Salvador,30.02,56,Céu Limpo,2025-08-01 15:46:19
+Rio de Janeiro,22.87,58,Céu Limpo,2025-08-01 15:47:19
+São Paulo,22.61,48,Céu Limpo,2025-08-01 15:47:20
+Belo Horizonte,23.2,45,Céu Limpo,2025-08-01 15:47:20
+Brasília,26.53,40,Algumas Nuvens,2025-08-01 15:47:20
+Salvador,30.02,56,Céu Limpo,2025-08-01 15:47:21
+Rio de Janeiro,22.87,58,Céu Limpo,2025-08-01 15:48:21
+São Paulo,22.8,47,Céu Limpo,2025-08-01 15:48:21
+Belo Horizonte,23.52,44,Céu Limpo,2025-08-01 15:48:22
+Brasília,26.53,40,Algumas Nuvens,2025-08-01 15:48:22
+Salvador,30.02,56,Céu Limpo,2025-08-01 15:48:22
+Rio de Janeiro,22.87,58,Céu Limpo,2025-08-01 15:49:23
+São Paulo,22.8,47,Céu Limpo,2025-08-01 15:49:23
+Belo Horizonte,23.52,44,Céu Limpo,2025-08-01 15:49:23
+Brasília,26.53,40,Algumas Nuvens,2025-08-01 15:49:24
+Salvador,30.02,56,Céu Limpo,2025-08-01 15:49:24
+Rio de Janeiro,22.87,58,Céu Limpo,2025-08-01 15:50:24
+São Paulo,22.8,47,Céu Limpo,2025-08-01 15:50:24
+Belo Horizonte,23.52,44,Céu Limpo,2025-08-01 15:50:25
+Brasília,26.53,40,Algumas Nuvens,2025-08-01 15:50:25
+Salvador,30.02,56,Céu Limpo,2025-08-01 15:50:25
+Rio de Janeiro,22.87,58,Céu Limpo,2025-08-01 15:51:26
+São Paulo,22.8,47,Céu Limpo,2025-08-01 15:51:26
+Belo Horizonte,23.52,44,Céu Limpo,2025-08-01 15:51:26
+Brasília,26.53,40,Algumas Nuvens,2025-08-01 15:51:27
+Salvador,30.02,56,Céu Limpo,2025-08-01 15:51:27
+Rio de Janeiro,22.87,58,Céu Limpo,2025-08-01 15:52:27
+São Paulo,22.8,47,Céu Limpo,2025-08-01 15:52:28
+Belo Horizonte,23.52,44,Céu Limpo,2025-08-01 15:52:28
+Brasília,26.53,40,Algumas Nuvens,2025-08-01 15:52:28
+Salvador,30.02,56,Céu Limpo,2025-08-01 15:52:29
+Rio de Janeiro,22.87,58,Céu Limpo,2025-08-01 15:53:29
+São Paulo,22.8,47,Céu Limpo,2025-08-01 15:53:29
+Belo Horizonte,23.52,44,Céu Limpo,2025-08-01 15:53:30
+Brasília,26.53,40,Algumas Nuvens,2025-08-01 15:53:30
+Salvador,30.02,56,Céu Limpo,2025-08-01 15:53:30
+Rio de Janeiro,22.87,58,Céu Limpo,2025-08-01 15:54:31
+São Paulo,22.8,47,Céu Limpo,2025-08-01 15:54:31
+Belo Horizonte,23.52,44,Céu Limpo,2025-08-01 15:54:31
+Brasília,26.53,40,Algumas Nuvens,2025-08-01 15:54:32
+Salvador,30.02,56,Céu Limpo,2025-08-01 15:54:32
+Rio de Janeiro,22.87,58,Céu Limpo,2025-08-01 15:55:32
+São Paulo,22.8,47,Céu Limpo,2025-08-01 15:55:33
+Belo Horizonte,23.52,44,Céu Limpo,2025-08-01 15:55:33
+Brasília,26.53,40,Algumas Nuvens,2025-08-01 15:55:33
+Salvador,30.02,56,Céu Limpo,2025-08-01 15:55:33
+Rio de Janeiro,22.87,58,Céu Limpo,2025-08-01 15:56:34
+São Paulo,22.8,47,Céu Limpo,2025-08-01 15:56:34
+Belo Horizonte,23.52,44,Céu Limpo,2025-08-01 15:56:34
+Brasília,26.53,40,Algumas Nuvens,2025-08-01 15:56:35
+Salvador,30.02,56,Céu Limpo,2025-08-01 15:56:35
+Rio de Janeiro,22.87,58,Céu Limpo,2025-08-01 15:57:35
+São Paulo,22.8,47,Céu Limpo,2025-08-01 15:57:36
+Belo Horizonte,23.52,44,Céu Limpo,2025-08-01 15:57:36
+Brasília,26.53,40,Algumas Nuvens,2025-08-01 15:57:36
+Salvador,30.02,56,Céu Limpo,2025-08-01 15:57:37
+Rio de Janeiro,22.87,58,Céu Limpo,2025-08-01 15:58:37
+São Paulo,22.83,48,Céu Limpo,2025-08-01 15:58:37
+Belo Horizonte,23.2,45,Céu Limpo,2025-08-01 15:58:38
+Brasília,26.53,37,Nuvens Dispersas,2025-08-01 15:58:38
+Salvador,30.02,56,Céu Limpo,2025-08-01 15:58:38
+Rio de Janeiro,22.87,58,Céu Limpo,2025-08-01 15:59:39
+São Paulo,22.83,48,Céu Limpo,2025-08-01 15:59:39
+Belo Horizonte,23.2,45,Céu Limpo,2025-08-01 15:59:39
+Brasília,26.53,37,Nuvens Dispersas,2025-08-01 15:59:40
+Salvador,30.02,56,Céu Limpo,2025-08-01 15:59:40
+Rio de Janeiro,22.87,58,Céu Limpo,2025-08-01 16:00:40
+São Paulo,22.83,48,Céu Limpo,2025-08-01 16:00:41
+Belo Horizonte,23.2,45,Céu Limpo,2025-08-01 16:00:41
+Brasília,26.53,37,Nuvens Dispersas,2025-08-01 16:00:41
+Salvador,30.02,56,Céu Limpo,2025-08-01 16:00:42
+Rio de Janeiro,22.87,58,Céu Limpo,2025-08-01 16:01:42
+São Paulo,22.83,48,Céu Limpo,2025-08-01 16:01:42
+Belo Horizonte,23.2,45,Céu Limpo,2025-08-01 16:01:43
+Brasília,26.53,37,Nuvens Dispersas,2025-08-01 16:01:43
+Salvador,30.02,56,Céu Limpo,2025-08-01 16:01:43
+Rio de Janeiro,22.87,58,Céu Limpo,2025-08-01 16:02:44
+São Paulo,22.83,48,Céu Limpo,2025-08-01 16:02:44
+Belo Horizonte,23.2,45,Céu Limpo,2025-08-01 16:02:44
+Brasília,26.53,37,Nuvens Dispersas,2025-08-01 16:02:44
+Salvador,30.02,56,Céu Limpo,2025-08-01 16:02:45
+Rio de Janeiro,22.87,58,Céu Limpo,2025-08-01 16:03:45
+São Paulo,22.83,48,Céu Limpo,2025-08-01 16:03:45
+Belo Horizonte,23.2,45,Céu Limpo,2025-08-01 16:03:46
+Brasília,26.52,37,Nuvens Dispersas,2025-08-01 16:03:46
+Salvador,30.02,58,Céu Limpo,2025-08-01 16:03:46
+Rio de Janeiro,22.87,58,Céu Limpo,2025-08-01 16:04:47
+São Paulo,22.83,48,Céu Limpo,2025-08-01 16:04:47
+Belo Horizonte,23.2,45,Céu Limpo,2025-08-01 16:04:47
+Brasília,26.52,37,Nuvens Dispersas,2025-08-01 16:04:48
+Salvador,30.02,58,Céu Limpo,2025-08-01 16:04:48
+Rio de Janeiro,22.87,58,Céu Limpo,2025-08-01 16:05:48
+São Paulo,22.83,48,Céu Limpo,2025-08-01 16:05:49
+Belo Horizonte,23.2,45,Céu Limpo,2025-08-01 16:05:49
+Brasília,26.52,37,Nuvens Dispersas,2025-08-01 16:05:49
+Salvador,30.02,58,Céu Limpo,2025-08-01 16:05:50
+Rio de Janeiro,22.94,56,Céu Limpo,2025-08-01 16:06:50
+São Paulo,22.83,48,Céu Limpo,2025-08-01 16:06:50
+Belo Horizonte,23.2,45,Céu Limpo,2025-08-01 16:06:51
+Brasília,26.52,37,Nuvens Dispersas,2025-08-01 16:06:51
+Salvador,30.02,58,Céu Limpo,2025-08-01 16:06:51
+Rio de Janeiro,22.94,56,Céu Limpo,2025-08-01 16:07:52
+São Paulo,22.83,48,Céu Limpo,2025-08-01 16:07:52
+Belo Horizonte,23.2,45,Céu Limpo,2025-08-01 16:07:52
+Brasília,26.52,37,Nuvens Dispersas,2025-08-01 16:07:53
+Salvador,30.02,58,Céu Limpo,2025-08-01 16:07:53
+Rio de Janeiro,22.94,56,Céu Limpo,2025-08-01 16:08:53
+São Paulo,22.83,48,Céu Limpo,2025-08-01 16:08:54
+Belo Horizonte,23.2,45,Céu Limpo,2025-08-01 16:08:54
+Brasília,26.52,37,Nuvens Dispersas,2025-08-01 16:08:54
+Salvador,30.02,58,Céu Limpo,2025-08-01 16:08:54
+Rio de Janeiro,22.94,56,Céu Limpo,2025-08-01 16:09:55
+São Paulo,22.83,48,Céu Limpo,2025-08-01 16:09:55
+Belo Horizonte,23.2,45,Céu Limpo,2025-08-01 16:09:55
+Brasília,26.52,37,Nuvens Dispersas,2025-08-01 16:09:56
+Salvador,30.02,58,Céu Limpo,2025-08-01 16:09:56
+Rio de Janeiro,22.94,56,Céu Limpo,2025-08-01 16:10:56
+São Paulo,22.83,48,Céu Limpo,2025-08-01 16:10:57
+Belo Horizonte,23.2,45,Céu Limpo,2025-08-01 16:10:57
+Brasília,26.52,37,Nuvens Dispersas,2025-08-01 16:10:57
+Salvador,30.02,58,Céu Limpo,2025-08-01 16:10:58
+Rio de Janeiro,22.94,56,Céu Limpo,2025-08-01 16:11:58
+São Paulo,22.83,48,Céu Limpo,2025-08-01 16:11:58
+Belo Horizonte,23.2,45,Céu Limpo,2025-08-01 16:11:59
+Brasília,26.52,37,Nuvens Dispersas,2025-08-01 16:11:59
+Salvador,30.02,58,Céu Limpo,2025-08-01 16:11:59
+Rio de Janeiro,22.94,56,Céu Limpo,2025-08-01 16:13:00
+São Paulo,22.56,53,Céu Limpo,2025-08-01 16:13:00
+Belo Horizonte,23.2,45,Céu Limpo,2025-08-01 16:13:00
+Brasília,26.52,37,Nuvens Dispersas,2025-08-01 16:13:00
+Salvador,30.02,58,Céu Limpo,2025-08-01 16:13:01
+Rio de Janeiro,21.81,64,Céu Limpo,2025-08-01 16:14:01
+São Paulo,22.56,53,Céu Limpo,2025-08-01 16:14:02
+Belo Horizonte,23.57,47,Céu Limpo,2025-08-01 16:14:02
+Brasília,26.52,37,Nuvens Dispersas,2025-08-01 16:14:02
+Salvador,30.02,58,Céu Limpo,2025-08-01 16:14:02
+Rio de Janeiro,21.81,64,Céu Limpo,2025-08-01 16:15:03
+São Paulo,22.56,53,Céu Limpo,2025-08-01 16:15:03
+Belo Horizonte,23.57,47,Céu Limpo,2025-08-01 16:15:03
+Brasília,26.52,37,Nuvens Dispersas,2025-08-01 16:15:04
+Salvador,30.02,58,Céu Limpo,2025-08-01 16:15:04
+Rio de Janeiro,21.81,64,Céu Limpo,2025-08-01 16:16:04
+São Paulo,22.56,53,Céu Limpo,2025-08-01 16:16:05
+Belo Horizonte,23.57,47,Céu Limpo,2025-08-01 16:16:05
+Brasília,26.52,37,Nuvens Dispersas,2025-08-01 16:16:05
+Salvador,30.02,58,Céu Limpo,2025-08-01 16:16:06
+Rio de Janeiro,21.81,64,Céu Limpo,2025-08-01 16:17:06
+São Paulo,22.56,53,Céu Limpo,2025-08-01 16:17:06
+Belo Horizonte,23.57,47,Céu Limpo,2025-08-01 16:17:07
+Brasília,26.52,37,Nuvens Dispersas,2025-08-01 16:17:07
+Salvador,30.02,58,Céu Limpo,2025-08-01 16:17:07
+Rio de Janeiro,21.81,64,Céu Limpo,2025-08-01 16:18:07
+São Paulo,22.56,53,Céu Limpo,2025-08-01 16:18:08
+Belo Horizonte,23.57,47,Céu Limpo,2025-08-01 16:18:08
+Brasília,26.52,37,Nuvens Dispersas,2025-08-01 16:18:08
+Salvador,30.02,58,Céu Limpo,2025-08-01 16:18:09
+Rio de Janeiro,21.81,64,Céu Limpo,2025-08-01 16:19:09
+São Paulo,22.56,53,Céu Limpo,2025-08-01 16:19:10
+Belo Horizonte,23.57,47,Céu Limpo,2025-08-01 16:19:10
+Brasília,26.52,37,Nuvens Dispersas,2025-08-01 16:19:10
+Salvador,30.02,58,Céu Limpo,2025-08-01 16:19:10
+Rio de Janeiro,22.06,61,Céu Limpo,2025-08-01 16:20:11
+São Paulo,22.56,53,Céu Limpo,2025-08-01 16:20:11
+Belo Horizonte,22.89,43,Céu Limpo,2025-08-01 16:20:11
+Brasília,26.53,37,Nuvens Dispersas,2025-08-01 16:20:12
+Salvador,30.02,55,Céu Limpo,2025-08-01 16:20:12
+Rio de Janeiro,22.06,61,Céu Limpo,2025-08-01 16:21:12
+São Paulo,22.26,49,Céu Limpo,2025-08-01 16:21:13
+Belo Horizonte,22.89,43,Céu Limpo,2025-08-01 16:21:13
+Brasília,26.53,37,Nuvens Dispersas,2025-08-01 16:21:13
+Salvador,30.02,55,Céu Limpo,2025-08-01 16:21:14
+Rio de Janeiro,22.06,61,Céu Limpo,2025-08-01 16:22:14
+São Paulo,22.26,49,Céu Limpo,2025-08-01 16:22:14
+Belo Horizonte,22.89,43,Céu Limpo,2025-08-01 16:22:15
+Brasília,26.53,37,Nuvens Dispersas,2025-08-01 16:22:15
+Salvador,30.02,55,Céu Limpo,2025-08-01 16:22:15
+Rio de Janeiro,21.81,64,Céu Limpo,2025-08-01 16:23:16
+São Paulo,22.1,49,Céu Limpo,2025-08-01 16:23:16
+Belo Horizonte,22.89,43,Céu Limpo,2025-08-01 16:23:16
+Brasília,26.53,37,Nuvens Dispersas,2025-08-01 16:23:17
+Salvador,30.02,55,Céu Limpo,2025-08-01 16:23:17
+Rio de Janeiro,22.06,61,Céu Limpo,2025-08-01 16:24:17
+São Paulo,22.26,49,Céu Limpo,2025-08-01 16:24:18
+Belo Horizonte,22.89,43,Céu Limpo,2025-08-01 16:24:18
+Brasília,26.53,37,Nuvens Dispersas,2025-08-01 16:24:18
+Salvador,30.02,55,Céu Limpo,2025-08-01 16:24:19
+Rio de Janeiro,22.06,61,Céu Limpo,2025-08-01 16:25:19
+São Paulo,22.26,49,Céu Limpo,2025-08-01 16:25:19
+Belo Horizonte,22.89,43,Céu Limpo,2025-08-01 16:25:20
+Brasília,26.53,37,Nuvens Dispersas,2025-08-01 16:25:20
+Salvador,30.02,55,Céu Limpo,2025-08-01 16:25:20
+Rio de Janeiro,22.06,61,Céu Limpo,2025-08-01 16:26:21
+São Paulo,22.26,49,Céu Limpo,2025-08-01 16:26:21
+Belo Horizonte,22.89,43,Céu Limpo,2025-08-01 16:26:21
+Brasília,26.53,37,Nuvens Dispersas,2025-08-01 16:26:22
+Salvador,30.02,55,Céu Limpo,2025-08-01 16:26:22
+Rio de Janeiro,22.06,61,Céu Limpo,2025-08-01 16:27:22
+São Paulo,22.26,49,Céu Limpo,2025-08-01 16:27:23
+Belo Horizonte,22.89,43,Céu Limpo,2025-08-01 16:27:23
+Brasília,26.53,37,Nuvens Dispersas,2025-08-01 16:27:23
+Salvador,30.02,55,Céu Limpo,2025-08-01 16:27:23
+Rio de Janeiro,22.06,61,Céu Limpo,2025-08-01 16:28:24
+São Paulo,22.26,49,Céu Limpo,2025-08-01 16:28:24
+Belo Horizonte,22.89,43,Céu Limpo,2025-08-01 16:28:24
+Brasília,26.53,37,Nuvens Dispersas,2025-08-01 16:28:25
+Salvador,30.02,55,Céu Limpo,2025-08-01 16:28:25
+Rio de Janeiro,22.06,61,Céu Limpo,2025-08-01 16:29:26
+São Paulo,22.26,49,Céu Limpo,2025-08-01 16:29:26
+Belo Horizonte,22.89,43,Céu Limpo,2025-08-01 16:29:26
+Brasília,26.53,37,Nuvens Dispersas,2025-08-01 16:29:27
+Salvador,30.02,55,Céu Limpo,2025-08-01 16:29:27
+Rio de Janeiro,22.06,61,Céu Limpo,2025-08-01 16:30:27
+São Paulo,22.26,49,Céu Limpo,2025-08-01 16:30:28
+Belo Horizonte,22.89,44,Céu Limpo,2025-08-01 16:30:28
+Brasília,26.53,37,Nuvens Dispersas,2025-08-01 16:30:28
+Salvador,30.02,55,Céu Limpo,2025-08-01 16:30:29
+Rio de Janeiro,22.06,61,Céu Limpo,2025-08-01 16:31:29
+São Paulo,22.1,49,Céu Limpo,2025-08-01 16:31:29
+Belo Horizonte,22.89,44,Céu Limpo,2025-08-01 16:31:30
+Brasília,26.53,37,Nuvens Dispersas,2025-08-01 16:31:30
+Salvador,30.02,55,Céu Limpo,2025-08-01 16:31:30
+Rio de Janeiro,22.06,61,Céu Limpo,2025-08-01 16:32:30
+São Paulo,22.1,49,Céu Limpo,2025-08-01 16:32:31
+Belo Horizonte,22.89,44,Céu Limpo,2025-08-01 16:32:31
+Brasília,26.53,37,Nuvens Dispersas,2025-08-01 16:32:31
+Salvador,30.02,55,Céu Limpo,2025-08-01 16:32:32
+Rio de Janeiro,22.06,61,Céu Limpo,2025-08-01 16:33:32
+São Paulo,22.1,49,Céu Limpo,2025-08-01 16:33:32
+Belo Horizonte,22.89,44,Céu Limpo,2025-08-01 16:33:33
+Brasília,26.53,37,Nuvens Dispersas,2025-08-01 16:33:33
+Salvador,30.02,55,Céu Limpo,2025-08-01 16:33:33
+Rio de Janeiro,22.06,62,Céu Limpo,2025-08-01 16:34:34
+São Paulo,22.1,49,Céu Limpo,2025-08-01 16:34:34
+Belo Horizonte,22.89,44,Céu Limpo,2025-08-01 16:34:34
+Brasília,26.53,37,Nuvens Dispersas,2025-08-01 16:34:35
+Salvador,30.02,55,Céu Limpo,2025-08-01 16:34:35
+Rio de Janeiro,22.06,61,Céu Limpo,2025-08-01 16:35:35
+São Paulo,22.1,49,Céu Limpo,2025-08-01 16:35:36
+Belo Horizonte,22.89,44,Céu Limpo,2025-08-01 16:35:36
+Brasília,26.53,37,Nuvens Dispersas,2025-08-01 16:35:36
+Salvador,30.02,55,Céu Limpo,2025-08-01 16:35:37
+Rio de Janeiro,22.06,62,Céu Limpo,2025-08-01 16:36:37
+São Paulo,22.1,49,Céu Limpo,2025-08-01 16:36:37
+Belo Horizonte,22.89,44,Céu Limpo,2025-08-01 16:36:38
+Brasília,26.52,37,Nuvens Dispersas,2025-08-01 16:36:38
+Salvador,30.02,53,Céu Limpo,2025-08-01 16:36:38
+Rio de Janeiro,22.06,62,Céu Limpo,2025-08-01 16:37:39
+São Paulo,22.1,49,Céu Limpo,2025-08-01 16:37:39
+Belo Horizonte,22.89,44,Céu Limpo,2025-08-01 16:37:39
+Brasília,26.52,37,Nuvens Dispersas,2025-08-01 16:37:40
+Salvador,30.02,53,Céu Limpo,2025-08-01 16:37:40
+Rio de Janeiro,22.06,62,Céu Limpo,2025-08-01 16:38:40
+São Paulo,22.1,49,Céu Limpo,2025-08-01 16:38:41
+Belo Horizonte,22.89,44,Céu Limpo,2025-08-01 16:38:41
+Brasília,26.52,37,Nuvens Dispersas,2025-08-01 16:38:41
+Salvador,30.02,53,Céu Limpo,2025-08-01 16:38:42
+Rio de Janeiro,22.06,62,Céu Limpo,2025-08-01 16:39:42
+São Paulo,22.1,49,Céu Limpo,2025-08-01 16:39:42
+Belo Horizonte,22.89,44,Céu Limpo,2025-08-01 16:39:43
+Brasília,26.52,37,Nuvens Dispersas,2025-08-01 16:39:43
+Salvador,30.02,53,Céu Limpo,2025-08-01 16:39:43
+Rio de Janeiro,22.06,62,Céu Limpo,2025-08-01 16:40:44
+São Paulo,22.1,49,Céu Limpo,2025-08-01 16:40:44
+Belo Horizonte,22.89,44,Céu Limpo,2025-08-01 16:40:44
+Brasília,26.52,37,Nuvens Dispersas,2025-08-01 16:40:45
+Salvador,30.02,53,Céu Limpo,2025-08-01 16:40:45
+Rio de Janeiro,22.06,62,Céu Limpo,2025-08-01 16:41:45
+São Paulo,22.1,49,Céu Limpo,2025-08-01 16:41:46
+Belo Horizonte,22.89,44,Céu Limpo,2025-08-01 16:41:46
+Brasília,26.52,37,Nuvens Dispersas,2025-08-01 16:41:46
+Salvador,30.02,53,Céu Limpo,2025-08-01 16:41:46
+Rio de Janeiro,22.06,62,Céu Limpo,2025-08-01 16:42:47
+São Paulo,22.1,49,Céu Limpo,2025-08-01 16:42:47
+Belo Horizonte,22.89,44,Céu Limpo,2025-08-01 16:42:47
+Brasília,26.52,37,Nuvens Dispersas,2025-08-01 16:42:48
+Salvador,30.02,53,Céu Limpo,2025-08-01 16:42:48
+Rio de Janeiro,22.06,62,Céu Limpo,2025-08-01 16:43:48
+São Paulo,22.1,49,Céu Limpo,2025-08-01 16:43:49
+Belo Horizonte,22.89,44,Céu Limpo,2025-08-01 16:43:49
+Brasília,26.52,37,Nuvens Dispersas,2025-08-01 16:43:49
+Salvador,30.02,53,Céu Limpo,2025-08-01 16:43:50
+Rio de Janeiro,22.06,62,Céu Limpo,2025-08-01 16:44:50
+São Paulo,22.1,49,Céu Limpo,2025-08-01 16:44:50
+Belo Horizonte,22.89,44,Céu Limpo,2025-08-01 16:44:51
+Brasília,26.52,37,Nuvens Dispersas,2025-08-01 16:44:51
+Salvador,30.02,53,Céu Limpo,2025-08-01 16:44:51
+Rio de Janeiro,22.06,62,Céu Limpo,2025-08-01 16:45:52
+São Paulo,22.1,49,Céu Limpo,2025-08-01 16:45:52
+Belo Horizonte,22.89,44,Céu Limpo,2025-08-01 16:45:52
+Brasília,26.52,37,Nuvens Dispersas,2025-08-01 16:45:53
+Salvador,30.02,53,Céu Limpo,2025-08-01 16:45:53
+Rio de Janeiro,22.06,62,Céu Limpo,2025-08-01 16:46:53
+São Paulo,22.1,49,Céu Limpo,2025-08-01 16:46:54
+Belo Horizonte,22.89,44,Céu Limpo,2025-08-01 16:46:54
+Brasília,26.52,37,Nuvens Dispersas,2025-08-01 16:46:54
+Salvador,30.02,53,Céu Limpo,2025-08-01 16:46:55
+Rio de Janeiro,22.06,62,Céu Limpo,2025-08-01 16:47:55
+São Paulo,22.1,49,Céu Limpo,2025-08-01 16:47:55
+Belo Horizonte,22.89,44,Céu Limpo,2025-08-01 16:47:56
+Brasília,26.52,37,Nuvens Dispersas,2025-08-01 16:47:56
+Salvador,30.02,53,Céu Limpo,2025-08-01 16:47:56
+Rio de Janeiro,22.06,62,Céu Limpo,2025-08-01 16:48:56
+São Paulo,22.1,49,Céu Limpo,2025-08-01 16:48:57
+Belo Horizonte,22.89,44,Céu Limpo,2025-08-01 16:48:57
+Brasília,26.52,37,Nuvens Dispersas,2025-08-01 16:48:57
+Salvador,30.02,53,Céu Limpo,2025-08-01 16:48:58
+Rio de Janeiro,22.06,62,Céu Limpo,2025-08-01 16:49:58
+São Paulo,22.1,49,Céu Limpo,2025-08-01 16:49:59
+Belo Horizonte,22.89,44,Céu Limpo,2025-08-01 16:49:59
+Brasília,26.52,37,Nuvens Dispersas,2025-08-01 16:49:59
+Salvador,30.02,53,Céu Limpo,2025-08-01 16:49:59
+Rio de Janeiro,22.06,62,Céu Limpo,2025-08-01 16:51:00
+São Paulo,22.1,49,Céu Limpo,2025-08-01 16:51:00
+Belo Horizonte,22.89,45,Céu Limpo,2025-08-01 16:51:00
+Brasília,26.52,37,Nuvens Dispersas,2025-08-01 16:51:01
+Salvador,30.02,53,Céu Limpo,2025-08-01 16:51:01
