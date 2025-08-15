@@ -4,7 +4,7 @@ import pandas as pd
 import sqlite3
 from datetime import datetime
 
-API_KEY = "78f7a5cd38c00a922d0ed9527bbeec35"  # coloque sua chave aqui
+API_KEY = ""  # coloque sua chave aqui
 CITY = "Sao Paulo"
 
 def coletar_dados():
